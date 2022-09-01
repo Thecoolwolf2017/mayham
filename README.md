@@ -1,4 +1,4 @@
-# instrustions
+# instructions
 1. download and install an executor
 1. after doing so goto https://www.roblox.com/games/2248408710/Destruction-Simulator
 2. join a server
